@@ -3,3 +3,6 @@
 /yarn.lock
 /npm-debug.log
 .DS_Store
+
+# Local Netlify folder
+.netlify
